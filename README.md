@@ -7,6 +7,8 @@ Responsive export template with affix navigation for [Evolus Pencil](http://penc
 - Clean unobtrusive design
 - Built with Twitter Bootstrap 3
 
+**[:mag: Open demo document](https://cdn.rawgit.com/illagrenan/affix-pencil-export-template/master/docs/demo/index.html "Demo of responsive affix template")**
+
 ## Installation instruction ##
 
 1. **Download** latest release: **[affix-pencil-export-template_v0.0.1.zip](https://github.com/illagrenan/affix-pencil-export-template/releases/download/v0.0.1/affix-pencil-export-template_v0.0.1.zip "Download responsive template")** [147 KB]

@@ -1,7 +1,7 @@
 <Template xmlns="http://www.evolus.vn/Namespace/Pencil">
-    <Property name="id">Evolus:HTML:Semantic</Property>
-    <Property name="name">SemanticUI Template with navigation</Property>
-    <Property name="author">Vašek Dohnal</Property>
-    <Property name="description">Left panel with thumbnails without javascript</Property>
+    <Property name="id">Evolus:HTML:Affix</Property>
+    <Property name="name">Responsive template with affix navigation</Property>
+    <Property name="author">Vašek Dohnal (@illagrenan)</Property>
+    <Property name="description">Left affix panel with navigation using Bootstrap 3.</Property>
     <Property name="styleSheet">StyleSheet.xslt</Property>
 </Template>

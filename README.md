@@ -3,6 +3,8 @@ Responsive export template with affix navigation for [Evolus Pencil](http://penc
 
 ## Main features ##
 
+![](docs/images/example.png)
+
 - Responsive layout
 - Clean unobtrusive design
 - Built with Twitter Bootstrap 3

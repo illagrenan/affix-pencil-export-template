@@ -1,4 +1,4 @@
-Responsive export template with affix navigation for Evolus Pencil
+Responsive export template with affix navigation for [Evolus Pencil](http://pencil.evolus.vn/ "Evolus Pencil homepage")
 ============================
 
 ## Main features ##
@@ -9,8 +9,20 @@ Responsive export template with affix navigation for Evolus Pencil
 
 ## Installation instruction ##
 
-1. **Download** latest release: [affix-pencil-export-template_v0.0.1.zip](https://github.com/illagrenan/affix-pencil-export-template/releases/download/v0.0.1/affix-pencil-export-template_v0.0.1.zip "Download responsive template"), 147 KB
+1. **Download** latest release: **[affix-pencil-export-template_v0.0.1.zip](https://github.com/illagrenan/affix-pencil-export-template/releases/download/v0.0.1/affix-pencil-export-template_v0.0.1.zip "Download responsive template")** [147 KB]
 2. In Evolus Pencil go to **Tools &rarr; Manage Export Template...** ![](docs/images/installation_instructions_1.png)
 3. Choose **Install New Template...** ![](docs/images/installation_instructions_2.png)
 4. **Locate ZIP** file ![](docs/images/installation_instructions_3.png)
 5. Enjoy! ;o)))
+
+## License ##
+
+The MIT License (MIT)
+
+Copyright &copy; 2014 Vašek Dohnal (@illagrenan)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

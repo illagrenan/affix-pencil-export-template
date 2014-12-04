@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "bootstrap": "*",
-    "ember": "~1.8.1"
+    "html5shiv": "~3.7.2"
   }
 }

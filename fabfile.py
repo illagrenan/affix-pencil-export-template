@@ -9,7 +9,7 @@ import os
 from fabric.decorators import task
 
 
-TEMPLATE_BASE_DIR = "evolus_pencil_sematic_export_template"
+TEMPLATE_BASE_DIR = "affix-pencil-export-template"
 
 
 def zip_dir(base_dir, archive_name):

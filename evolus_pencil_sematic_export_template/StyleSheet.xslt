@@ -19,6 +19,8 @@
                 </title>
                 <meta name="description" content=""/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                <meta name="robots" content="noindex,nofollow,noarchive"/>
+                <meta name="googlebot" content="noodp,nosnippet,noarchive,noindex,nofollow"/>
 
                 <!--type='text/css'>-->
                 <link rel="stylesheet" href="static/css/bootstrap.min.css"/>

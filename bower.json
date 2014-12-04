@@ -1,0 +1,21 @@
+{
+  "name": "evolus_pencil_sematic_export_template",
+  "version": "0.0.1",
+  "authors": [
+    "Vašek Dohnal <vaclav.dohnal@gmail.com>"
+  ],
+  "description": "Evolus Pencil export template.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    "ember": "~1.8.1"
+  }
+}

@@ -1,0 +1,7 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">Evolus:HTML:Semantic</Property>
+    <Property name="name">SemanticUI Template with navigation</Property>
+    <Property name="author">Vašek Dohnal</Property>
+    <Property name="description">Left panel with thumbnails without javascript</Property>
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+</Template>

@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
+.img-thumbnail {
+  max-width: 150px;
+}
+.scroll ul {
+  list-style: none;
+}
+#affix-nav {
+  position: fixed;
+  top: 0px;
+  bottom: 0;
+  left: 0;
+  overflow-y: scroll;
+  height: 100%;
+}
+#right {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.list-group-item {
+  margin-bottom: 5px;
+}
+#left {
+  height: 100%;
+  padding-top: 5px;
+  background-color: #ffffff;
+}
+#left a {
+  -webkit-transition: all 100ms linear;
+  -moz-transition: all 100ms linear;
+  -ms-transition: all 100ms linear;
+  -o-transition: all 100ms linear;
+  transition: all 100ms linear;
+}
+#left a p {
+  text-shadow: none;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 0;
+  font-family: 'Roboto Slab', serif;
+}
+#left a:not(.active):hover {
+  opacity: 0.5;
+}
+#left .list-group-item {
+  background-color: transparent;
+  padding: 0;
+}
+#left .list-group-item.active {
+  background-color: #5bc0de;
+  padding: 20px;
+  background-image: none;
+  border-color: transparent;
+}
+@media (max-width: 768px) {
+  .list-group-item {
+    border-radius: 0px;
+    padding: 0;
+  }
+  .list-group-item img {
+    padding: 2px;
+  }
+}
+#right {
+  height: 100%;
+  padding-left: 5px;
+}
+#right img {
+  margin: 10px auto 10px auto;
+  border-radius: 2px;
+}
